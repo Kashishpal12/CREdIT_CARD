@@ -3,3 +3,6 @@ The dataset focuses on Credit Card Spending Habits in India. So with help of MyS
 Here we identified the active and non active credit card holders and the amount they spent through the credit card.
 How many number of credit card holders were male and female.
 Found how many female gender hold credit card
+
+
+###The datset use for the project is pinned in the files
